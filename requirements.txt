@@ -3,3 +3,5 @@ pandas
 matplotlib
 seaborn
 autots
+scikit-learn
+tensorflow
