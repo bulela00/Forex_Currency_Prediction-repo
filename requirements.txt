@@ -5,3 +5,6 @@ seaborn
 autots
 scikit-learn
 tensorflow
+joblib
+pickle
+lightgbm
